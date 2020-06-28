@@ -1,2 +1,2 @@
 # ReactCrud
-React CRUD Operations to get my hand on wheels again
+React CRUD Operations to get my hands on wheels again
